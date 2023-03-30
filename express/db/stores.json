@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "name": "shoes",
+        "city": "Tel-aviv",
+        "items": [
+            {
+                "id": 1,
+                "name": "Nike",
+                "price": "300",
+                "salePrice": "250"
+            },
+            {
+                "id": 2,
+                "name": "Tecnica",
+                "price": "200",
+                "salePrice": "150"
+            },
+            {
+                "id": 3,
+                "name": "Vans",
+                "price": "220",
+                "salePrice": "200"
+            },
+            {
+                "id": 4,
+                "name": "Amazing Shirt",
+                "price": "900",
+                "salePrice": "800"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "shirts",
+        "city": "Tel-aviv",
+        "items": [
+            {
+                "id": 1,
+                "name": "Overshirt",
+                "price": "150",
+                "salePrice": "100"
+            },
+            {
+                "id": 2,
+                "name": "Classic Short",
+                "price": "100",
+                "salePrice": "80"
+            },
+            {
+                "id": 3,
+                "name": "Polo Shirt",
+                "price": "190",
+                "salePrice": "102"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "hats",
+        "city": "Holon",
+        "items": [
+            {
+                "id": 1,
+                "name": "Ascot cap",
+                "price": "150",
+                "salePrice": "100"
+            },
+            {
+                "id": 2,
+                "name": "Akubra",
+                "price": "105",
+                "salePrice": "85"
+            },
+            {
+                "id": 3,
+                "name": "Beret",
+                "price": "192",
+                "salePrice": "109"
+            },
+            {
+                "id": 4,
+                "name": "Goofy hat",
+                "price": "300",
+                "salePrice": "50"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "pants",
+        "city": "Haifa",
+        "items": [
+            {
+                "id": 1,
+                "name": "Wool Trousers",
+                "price": "100",
+                "salePrice": "80"
+            },
+            {
+                "id": 2,
+                "name": "Twill Chinos",
+                "price": "120",
+                "salePrice": "120"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Watches",
+        "city": "Eilat",
+        "items": [
+            {
+                "id": 1,
+                "name": "Mechanical",
+                "price": "400",
+                "salePrice": "360"
+            },
+            {
+                "id": 2,
+                "name": "Automatic",
+                "price": "360",
+                "salePrice": "350"
+            },
+            {
+                "id": 3,
+                "name": "solar",
+                "price": "350",
+                "salePrice": "345"
+            },
+            {
+                "id": 4,
+                "name": "Quartz",
+                "price": "350",
+                "salePrice": "345"
+            }
+        ]
+    }
+]
